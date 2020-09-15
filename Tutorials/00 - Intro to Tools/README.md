@@ -7,7 +7,7 @@ This tutorial should get you up and running with your Python environment, plus g
 We don't care which platform you use to produce the Jupyter Notebook files that you will submit for grading. These instructions will help you get started with Anaconda's local installation, but feel free to use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) (or [EPFL Noto](https://noto.epfl.ch/)). It is part of your responsibility to have a working environment for the homework and final exam.
 
 
-## Part 1: Setting up your environment
+## Part 1: Setting up your environment (IF you want a local/offline installation)
 
 * Install Anaconda, Python 3.8 version: [Anaconda](https://www.anaconda.com/distribution/#download-section).
 
