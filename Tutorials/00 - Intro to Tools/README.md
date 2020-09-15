@@ -1,6 +1,6 @@
 # 00 - Intro to Tools
 
-This tutorial should get you up and running with your Python environment, plus give you the basics of Jupyter notebooks. Please complete part 1 before the exercise session on Friday, September 18. The OPTIONAL and UNGRADED homework 0 should be completed before the release of the NON-OPTIONAL homework 1 on Friday, October 2.
+This tutorial should get you up and running with your Python environment, plus give you the basics of Jupyter notebooks. Please complete part 1 before the exercise session on Friday, September 18. 
 
 ## Part 1: Setting up your environment
 
@@ -17,6 +17,9 @@ Check that `conda` is in your path. If `which conda` returns something like `/ho
 
 * IF conda is already installed, run `conda update conda`.
 
+---
+
+
 * Install Git:
 
 *For Ubuntu/Debian*: `sudo apt-get install git`
@@ -28,10 +31,13 @@ Install it following this download link: [Git](https://git-scm.com/downloads). T
 
 [Git cheatsheet](http://rogerdudler.github.io/git-guide/)
 
+---
+
 * Clone the tutorials repo into a local folder:
 
 ```
 git clone https://github.com/epfl-ada/2020 ADA2020
+cd ADA2020
 ```
 
 * or pull new changes if you already have it (from the local folder):
@@ -39,6 +45,8 @@ git clone https://github.com/epfl-ada/2020 ADA2020
 ```
 git pull
 ```
+
+---
 
 * Create a new environment:
 
@@ -105,6 +113,8 @@ jupyter nbextension enable --py widgetsnbextension
     
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 ```
+
+---
 
 * Run a Jupyter notebook server (be sure to be at the tutorial's folder (`cd path/to/folder/`)). A browser window should open up for you.
 
