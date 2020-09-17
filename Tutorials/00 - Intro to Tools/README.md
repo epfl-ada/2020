@@ -115,9 +115,13 @@ In [this tutorial](Intro%20to%20Jupyter%20Notebooks.ipynb) we explore the functi
 
 Credits to [saloot](https://github.com/saloot) and [Michele Catasta](https://github.com/pirroh), on whose material this version is based.
 
+## Part 3: Good coding practices - Python
+
+This is a small guide on how-to-code. Although it's quite succint, there are a few things you should know.
+Please read [this tutorial](good_coding_practices.ipynb).
 
 
-## Part 3: Homework 0
+## Part 4: Homework 0
 
 Access Homework 0 (OPTIONAL and UNGRADED) [here](https://github.com/epfl-ada/2020/tree/master/Homework/00%20-%20Optional%20Homework). Clone the repo locally and take the opportunity to freshen up your Python skills, or to acquire them.
 
