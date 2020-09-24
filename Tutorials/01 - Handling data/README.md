@@ -1,6 +1,7 @@
 # 01 - Handling data
 
 In this tutorial session we explore the fundamental features of [Pandas](http://pandas.pydata.org/), we practice the basics of Data Wrangling and we will see how to retrive data from the Web.
+When you are (or if you already are) familiar with Pandas, you can move to the execise notebook.
 
 
 We recommend the following order:
