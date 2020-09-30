@@ -1,0 +1,438 @@
+Main_Genre,Genre_2,Genre_3,imdb_rating,length,rank_in_year,rating,studio,title,worldwide_gross,year
+Action,Adventure,Drama,7.4,135,1,PG-13,Walt Disney Pictures,Black Panther,"$700,059,566",2018
+Action,Adventure,Sci-Fi,8.5,156,2,PG-13,Walt Disney Pictures,Avengers: Infinity War,"$678,815,482",2018
+Animation,Action,Adventure,7.8,118,3,PG,Pixar,Incredibles 2,"$608,581,744",2018
+Action,Adventure,Drama,6.2,129,4,PG-13,Universal Pictures,Jurassic World: Fallen Kingdom,"$416,769,345",2018
+Action,Comedy,,7.8,119,5,R,20th Century Fox,Deadpool 2,"$318,491,426",2018
+Action,Adventure,Drama,7.9,147,6,PG-13,Paramount Pictures,Mission: Impossible - Fallout,"$220,159,104",2018
+Action,Comedy,,7.2,118,7,PG-13,Walt Disney Pictures,Ant-Man and the Wasp,"$216,648,740",2018
+Action,Adventure,Drama,7,135,8,PG-13,Walt Disney Pictures,Solo: A Star Wars Story,"$213,767,512",2018
+Action,Adventure,Drama,6.9,112,9,PG-13,Columbia Pictures,Venom,"$213,030,843",2018
+Music,Drama,,8.1,135,10,R,Warner Bros,A Star is Born ,"$199,721,727",2018
+Action,Adventure,Drama,7.2,152,1,PG-13,Walt Disney Pictures,Star Wars: The Last Jedi,"$620,181,382",2017
+Music,Drama,,7.2,129,2,PG,Walt Disney Pictures,Beauty and the Beast ,"$504,014,165",2017
+Action,Adventure,Drama,7.5,141,3,PG-13,Warner Bros,Wonder Woman,"$412,563,408",2017
+Action,Adventure,Comedy,7,112,4,PG-13,Sony Pictures,Jumanji: Welcome to the Jungle,"$404,515,480",2017
+Action,Adventure,Comedy,7.7,137,5,PG-13,Walt Disney Pictures,Guardians of the Galaxy Vol. 2,"$389,813,101",2017
+Action,Adventure,Drama,7.5,133,6,PG-13,Sony Pictures,Spider-Man: Homecoming,"$334,201,140",2017
+Horror,Drama,Mystery,7.4,135,7,R,Warner Bros,It,"$327,481,748",2017
+Action,Adventure,Drama,7.9,130,8,PG-13,Walt Disney Pictures,Thor: Ragnarok,"$315,058,289",2017
+Animation,Comedy,,6.3,90,9,PG,Universal Pictures,Despicable Me 3,"$264,624,300",2017
+Action,Adventure,Drama,6.5,110,10,PG-13,Warner Bros,Justice League,"$229,024,295",2017
+Action,Adventure,Drama,7.8,133,1,PG-13,Walt Disney Pictures,Rogue One: A Star Wars Story,"$532,177,324",2016
+Animation,Family,,7.3,100,2,PG,Walt Disney Pictures,Finding Dory,"$486,295,561",2016
+Action,Adventure,Sci-Fi,7.8,146,3,PG-13,Walt Disney Pictures,Captain America: Civil War,"$408,084,349",2016
+Animation,Comedy,,6.5,90,4,PG,Universal Pictures,The Secret Life of Pets,"$368,384,330",2016
+Action,Adventure,Family,7.4,111,5,PG,Walt Disney Pictures,The Jungle Book ,"$364,001,123",2016
+Action,Comedy,Adventure,8,103,6,R,20th Century Fox,Deadpool,"$363,070,709",2016
+Animation,Action,Adventure,8,108,7,PG,Walt Disney Pictures,Zootopia,"$341,268,248",2016
+Action,Adventure,Sci-Fi,6.5,151,8,PG-13,Warner Bros,Batman v Superman: Dawn of Justice,"$330,360,194",2016
+Action,Adventure,,6.1,123,9,PG-13,Warner Bros,Suicide Squad,"$325,100,054",2016
+Animation,Music,Comedy,7.1,108,10,PG,Universal Pictures,Sing,"$270,395,425",2016
+Action,Adventure,Fantasy,8,136,1,PG-13,Walt Disney Pictures,Star Wars: The Force Awakens,"$936,662,225",2015
+Action,Adventure,Mystery,7,123,2,PG-13,Universal Pictures,Jurassic World,"$652,270,625",2015
+Action,Adventure,Sci-Fi,7.4,141,3,PG-13,Walt Disney Pictures,Avengers: Age of Ultron,"$459,005,868",2015
+Animation,Family,,8.2,94,4,PG,Pixar,Inside Out,"$356,461,711",2015
+Action,Adventure,Mystery,7.2,140,5,PG-13,Universal Pictures,Furious 7,"$353,007,020",2015
+Animation,Comedy,Family,6.4,91,6,PG,Universal Pictures,Minions,"$336,045,770",2015
+Action,Adventure,Fantasy,6.6,137,7,PG-13,Lionsgate Films,The Hunger Games: Mockingjay - Part 2,"$281,723,902",2015
+Sci-Fi,Fantasy,,8,164,8,PG-13,20th Century Fox,The Martian,"$228,433,663",2015
+Romance,Fantasy,,6.9,105,9,PG,Walt Disney Pictures,Cinderella,"$201,151,353",2015
+Action,Adventure,,6.8,150,10,PG-13,Sony Pictures,Spectre,"$200,074,609",2015
+Sci-Fi,Adventure,Action,5.8,165,1,PG-13,Paramount Pictures,Transformers: Age of Extinction,"$1,091,404,499.00 ",2014
+Fantasy,Adventure,,7.5,144,2,PG-13,Warner Bros,The Hobbit: The Battle of the Five Armies,"$955,113,783.00 ",2014
+Sci-Fi,Adventure,Action,8.1,121,3,PG-13,Walt Disney Pictures,Guardians of the Galaxy,"$774,176,600.00 ",2014
+Fantasy,Adventure,Action,7.1,97,4,PG,Walt Disney Pictures,Maleficent,"$758,654,942.00 ",2014
+Sci-Fi,Adventure,,6.8,123,5,PG-13,Lionsgate Films,The Hunger Games: Mockingjay - Part 1,"$752,100,229.00 ",2014
+Sci-Fi,Adventure,Action,8.1,131,6,PG-13,20th Century Fox,X-Men: Days of Future Past,"$748,121,534.00 ",2014
+Sci-Fi,Adventure,Action,7.8,136,7,PG-13,Walt Disney Pictures,Captain America: The Winter Soldier,"$714,766,572.00 ",2014
+Fantasy,Adventure,Action,6.9,142,8,PG-13,Columbia Pictures,The Amazing Spider-Man 2,"$709,582,323.00 ",2014
+Sci-Fi,Drama,Action,7.7,130,9,PG-13,20th Century Fox,Dawn of the Planet of the Apes,"$708,835,589.00 ",2014
+Sci-Fi,Adventure,,8.7,169,10,PG-13,Paramount Pictures,Interstellar,"$672,974,414.00 ",2014
+Comedy,Animation,Adventure,7.7,102,1,PG,Walt Disney Pictures,Frozen,"$1,274,219,009.00 ",2013
+Sci-Fi,Adventure,Action,7.3,130,2,PG-13,Walt Disney Pictures,Iron Man 3,"$1,215,439,994.00 ",2013
+Animation,Comedy,Animation,7.5,98,3,PG,Universal Pictures,Despicable Me 2,"$970,761,885.00 ",2013
+Fantasy,Adventure,,8,161,4,PG-13,Warner Bros,The Hobbit: The Desolation of Smaug,"$960,366,855.00 ",2013
+Adventure,Sci-Fi,,7.7,146,5,PG-13,Lionsgate Films,The Hunger Games: Catching Fire,"$864,912,963.00 ",2013
+Thriller,Crime,Action,7.2,130,6,PG-13,Universal Pictures,Fast & Furious 6,"$788,679,850.00 ",2013
+Comedy,Animation,Adventure,7.4,104,7,G,Walt Disney Pictures,Monsters University,"$743,559,607.00 ",2013
+Thriller,Sci-Fi,Western,7.9,91,8,PG-13,Warner Bros,Gravity,"$716,392,705.00 ",2013
+Fantasy,Adventure,Action,7.2,143,9,PG-13,Warner Bros,Man of Steel,"$668,045,518.00 ",2013
+Fantasy,Adventure,Action,7.1,112,10,PG-13,Walt Disney Pictures,Thor: The Dark World,"$644,783,140.00 ",2013
+Sci-Fi,Adventure,Action,8.2,143,1,PG-13,Walt Disney Pictures,The Avengers,"$1,518,594,910.00 ",2012
+Thriller,Adventure,Action,7.8,143,2,PG-13,Metro-Goldwyn-Mayer,Skyfall,"$1,108,561,013.00 ",2012
+Thriller,Action,,8.5,165,3,PG-13,Warner Bros,The Dark Knight Rises,"$1,084,439,099.00 ",2012
+Fantasy,Adventure,,8,169,4,PG-13,Warner Bros,The Hobbit: An Unexpected Journey,"$1,017,003,568.00 ",2012
+Comedy,Animation,Adventure,6.7,88,5,PG,20th Century Fox,Ice Age: Continental Drift,"$877,244,782.00 ",2012
+Fantasy,Drama,Adventure,5.6,115,6,PG-13,Lionsgate Films,The Twilight Saga: Breaking Dawn - Part 2,"$829,685,377.00 ",2012
+Fantasy,Adventure,Action,7.1,136,7,PG-13,Columbia Pictures,The Amazing Spider-Man,"$757,930,663.00 ",2012
+Comedy,Adventure,Animation,7,93,8,PG,Paramount Pictures,Madagascar 3: Europe's Most Wanted,"$746,921,274.00 ",2012
+Sci-Fi,Adventure,,7.3,142,9,PG-13,Lionsgate Films,The Hunger Games,"$691,247,768.00 ",2012
+Sci-Fi,Comedy,Action,6.9,106,10,PG-13,Columbia Pictures,Men in Black 3,"$624,026,776.00 ",2012
+Thriller,Fantasy,Adventure,8.1,130,1,PG-13,Warner Bros,Harry Potter and the Deathly Hallows - Part 2,"$1,341,511,219.00 ",2011
+Sci-Fi,Adventure,Action,6.3,154,2,PG-13,Paramount Pictures,Transformers: Dark of the Moon,"$1,123,794,079.00 ",2011
+Fantasy,Adventure,Action,6.7,136,3,PG-13,Walt Disney Pictures,Pirates of the Caribbean: On Stranger Tides,"$1,045,713,802.00 ",2011
+Fantasy,Drama,Adventure,4.9,117,4,PG-13,Lionsgate Films,The Twilight Saga: Breaking Dawn - Part 1,"$712,171,856.00 ",2011
+Thriller,Adventure,Action,7.4,133,5,PG-13,Paramount Pictures,Mission: Impossible - Ghost Protocol,"$694,713,380.00 ",2011
+Animation,Adventure,Action,7.3,91,6,PG,Paramount Pictures,Kung Fu Panda 2,"$665,692,281.00 ",2011
+Thriller,Crime,Action,7.3,131,7,PG-13,Universal Pictures,Fast Five,"$626,137,675.00 ",2011
+Comedy,,,6.5,102,8,R,Warner Bros,The Hangover Part II,"$586,764,305.00 ",2011
+Comedy,Animation,Adventure,5.5,103,9,PG,Columbia Pictures,The Smurfs,"$563,749,323.00 ",2011
+Comedy,Animation,Adventure,6.3,106,10,G,Walt Disney Pictures,Cars 2,"$559,852,396.00 ",2011
+Comedy,Animation,Adventure,8.4,103,1,G,Walt Disney Pictures,Toy Story 3,"$1,063,171,911.00 ",2010
+Fantasy,Family,Adventure,6.5,108,2,PG,Walt Disney Pictures,Alice in Wonderland,"$1,025,467,110.00 ",2010
+Fantasy,Family,Adventure,7.7,146,3,PG-13,Warner Bros,Harry Potter and the Deathly Hallows - Part 1,"$960,283,305.00 ",2010
+Sci-Fi,Mystery,Action,8.8,148,4,PG-13,Warner Bros,Inception,"$825,531,030.00 ",2010
+Comedy,Animation,Adventure,6.4,93,5,PG,Paramount Pictures,Shrek Forever After,"$752,600,867.00 ",2010
+Fantasy,Drama,Adventure,4.9,124,6,PG-13,Lionsgate Films,The Twilight Saga: Eclipse,"$698,491,347.00 ",2010
+Sci-Fi,Adventure,Action,7.1,124,7,PG-13,Paramount Pictures,Iron Man 2,"$623,933,331.00 ",2010
+Animation,Comedy,Animation,7.8,100,8,PG,Walt Disney Pictures,Tangled,"$591,794,936.00 ",2010
+Animation,Comedy,Animation,7.7,95,9,PG,Universal Pictures,Despicable Me,"$543,113,985.00 ",2010
+Animation,Animation,Adventure,8.2,98,10,PG,Paramount Pictures,How to Train Your Dragon,"$494,878,759.00 ",2010
+Fantasy,Adventure,Action,7.9,162,1,PG-13,20th Century Fox,Avatar,"$2,749,064,328.00 ",2009
+Fantasy,Family,Adventure,7.5,153,2,PG,Warner Bros,Harry Potter and the Half-Blood Prince,"$934,416,487.00 ",2009
+Animation,Adventure,Action,7,94,3,PG,20th Century Fox,Ice Age: Dawn of the Dinosaurs,"$886,686,817.00 ",2009
+Sci-Fi,Adventure,Action,6,150,4,PG-13,Paramount Pictures,Transformers: Revenge of the Fallen,"$836,303,693.00 ",2009
+Sci-Fi,Adventure,Action,5.8,158,5,PG-13,Columbia Pictures,2012,"$769,304,749.00 ",2009
+Comedy,Animation,Adventure,8.3,96,6,PG,Pixar,Up,"$731,342,744.00 ",2009
+Fantasy,Drama,Adventure,4.6,130,7,PG-13,Lionsgate Films,The Twilight Saga: New Moon,"$709,827,462.00 ",2009
+Crime,Adventure,Action,7.6,128,8,PG-13,Warner Bros,Sherlock Holmes,"$524,028,679.00 ",2009
+Thriller,Mystery,,6.7,138,9,PG-13,Columbia Pictures,Angels & Demons,"$485,930,816.00 ",2009
+Comedy,,,7.8,100,10,R,Warner Bros,The Hangover,"$467,483,912.00 ",2009
+Drama,Crime,Action,9,152,1,PG-13,Warner Bros,The Dark Knight,"$997,000,000.00 ",2008
+Adventure,Action,,6.2,122,2,PG-13,Paramount Pictures,Indiana Jones and the Kingdom of the Crystal Skull,"$786,636,033.00 ",2008
+Animation,Adventure,Action,7.6,92,3,PG,Paramount Pictures,Kung Fu Panda,"$631,744,560.00 ",2008
+Fantasy,Action,,6.5,92,4,PG-13,Columbia Pictures,Hancock,"$624,386,746.00 ",2008
+Romance,Musical,Comedy,6.4,108,5,PG-13,Universal Pictures,Mamma Mia!,"$609,827,661.00 ",2008
+Animation,Adventure,Action,6.7,89,6,PG,Paramount Pictures,Madagascar: Escape 2 Africa,"$603,900,354.00 ",2008
+Adventure,Action,,6.7,106,7,PG-13,Metro-Goldwyn-Mayer,Quantum of Solace,"$586,090,727.00 ",2008
+Sci-Fi,Adventure,Action,7.9,126,8,PG-13,Paramount Pictures,Iron Man,"$585,174,222.00 ",2008
+Animation,Animation,Adventure,8.4,98,9,G,Pixar,WALL-E,"$521,311,860.00 ",2008
+Family,Adventure,Action,6.6,150,10,PG,Walt Disney Pictures,The Chronicles of Narnia: Prince Caspian,"$419,665,568.00 ",2008
+Fantasy,Adventure,Action,7.1,169,1,PG-13,Walt Disney Pictures,Pirates of the Caribbean: At World's End,"$963,420,425.00 ",2007
+Fantasy,Family,Adventure,7.4,138,2,PG-13,Warner Bros,Harry Potter and the Order of the Phoenix,"$939,885,929.00 ",2007
+Adventure,Action,,6.2,139,3,PG-13,Columbia Pictures,Spider-Man 3,"$890,871,626.00 ",2007
+Comedy,Animation,Adventure,6.1,93,4,PG,DreamWorks,Shrek the Third,"$798,958,162.00 ",2007
+Sci-Fi,Adventure,Action,7.2,144,5,PG-13,DreamWorks,Transformers,"$709,709,780.00 ",2007
+Animation,Comedy,Animation,8,111,6,G,Pixar,Ratatouille,"$623,707,397.00 ",2007
+Thriller,Sci-Fi,Drama,7.2,101,7,PG-13,Warner Bros,I Am Legend,"$585,349,010.00 ",2007
+Comedy,Animation,Adventure,7.4,87,8,PG-13,20th Century Fox,The Simpsons Movie,"$527,071,022.00 ",2007
+Thriller,Adventure,Action,6.5,124,9,PG,Walt Disney Pictures,National Treasure: Book of Secrets,"$457,364,600.00 ",2007
+War,Fantasy,Action,7.8,117,10,R,Warner Bros,300,"$456,068,181.00 ",2007
+Fantasy,Adventure,Action,7.3,151,1,PG-13,Walt Disney Pictures,Pirates of the Caribbean: Dead Man's Chest,"$1,066,179,725.00 ",2006
+Thriller,Mystery,,6.5,149,2,PG-13,Columbia Pictures,The Da Vinci Code,"$758,239,851.00 ",2006
+Animation,Adventure,Action,6.9,91,3,PG,20th Century Fox,Ice Age: The Meltdown,"$660,940,780.00 ",2006
+Thriller,Adventure,Action,8,144,4,PG-13,Metro-Goldwyn-Mayer,Casino Royale,"$599,045,960.00 ",2006
+Comedy,Adventure,Action,6.4,108,5,PG,20th Century Fox,Night at the Museum,"$574,480,052.00 ",2006
+Comedy,Animation,Adventure,7.2,117,6,G,Pixar,Cars,"$461,983,149.00 ",2006
+Sci-Fi,Adventure,Action,6.8,104,7,PG-13,20th Century Fox,X-Men: The Last Stand,"$459,359,555.00 ",2006
+Thriller,Adventure,Action,6.8,126,8,PG-13,Paramount Pictures,Mission: Impossible III,"$397,850,012.00 ",2006
+Fantasy,Adventure,Action,6.1,154,9,PG-13,Warner Bros,Superman Returns,"$391,081,192.00 ",2006
+Animation,Comedy,Animation,6.5,108,10,PG,Warner Bros,Happy Feet,"$384,335,608.00 ",2006
+Fantasy,Family,Adventure,7.6,157,1,PG-13,Warner Bros,Harry Potter and the Goblet of Fire,"$895,921,036.00 ",2005
+Fantasy,Adventure,Action,7.7,140,2,PG-13,20th Century Fox,Star Wars Episode III: Revenge of the Sith,"$848,754,768.00 ",2005
+Fantasy,Family,Adventure,6.9,143,3,PG,Walt Disney Pictures,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","$745,011,272.00 ",2005
+Thriller,Sci-Fi,Adventure,6.5,116,4,PG-13,Paramount Pictures,War of the Worlds,"$591,745,540.00 ",2005
+Drama,Adventure,Action,7.3,187,5,PG-13,Universal Pictures,King Kong,"$550,517,357.00 ",2005
+Comedy,Animation,Adventure,6.9,86,6,PG,DreamWorks,Madagascar,"$532,680,671.00 ",2005
+Crime,Comedy,Action,6.5,120,7,PG-13,20th Century Fox,Mr. & Mrs. Smith,"$478,207,520.00 ",2005
+Comedy,Adventure,Family,6.7,115,8,PG,Warner Bros,Charlie and the Chocolate Factory,"$474,968,763.00 ",2005
+Adventure,Action,,8.3,140,9,PG-13,Warner Bros,Batman Begins,"$372,710,015.00 ",2005
+Romance,Comedy,,6.7,118,10,PG-13,Columbia Pictures,Hitch,"$368,100,420.00 ",2005
+Comedy,Animation,Adventure,7.2,93,1,PG,DreamWorks,Shrek 2,"$919,838,758.00 ",2004
+Fantasy,Family,Adventure,7.8,142,2,PG,Warner Bros,Harry Potter and the Prisoner of Azkaban,"$795,634,069.00 ",2004
+Adventure,Action,,7.3,127,3,PG-13,Columbia Pictures,Spider-Man 2,"$783,766,341.00 ",2004
+Animation,Adventure,Action,8,115,4,PG,Pixar,The Incredibles,"$631,442,092.00 ",2004
+Drama,,,7.1,127,5,R,Newmarket Films,The Passion of the Christ,"$611,899,420.00 ",2004
+Sci-Fi,Adventure,Action,6.4,124,6,PG-13,20th Century Fox,The Day After Tomorrow,"$544,272,402.00 ",2004
+Romance,Comedy,,6.3,115,7,PG-13,Universal Pictures,Meet the Fockers,"$516,642,939.00 ",2004
+Adventure,,,7.2,163,8,R,Warner Bros,Troy,"$497,409,852.00 ",2004
+Comedy,Adventure,Animation,6,90,9,PG,DreamWorks,Shark Tale,"$367,275,019.00 ",2004
+Thriller,Crime,,6.4,125,10,PG-13,Warner Bros,Ocean's Twelve,"$362,744,280.00 ",2004
+Fantasy,Adventure,Western,8.9,201,1,PG-13,Warner Bros,The Lord of the Rings: The Return of the King,"$1,119,929,521.00 ",2003
+Comedy,Animation,Adventure,8.2,100,2,G,Pixar,Finding Nemo,"$867,893,978.00 ",2003
+Sci-Fi,Action,,7.2,138,3,R,Warner Bros,The Matrix Reloaded,"$742,128,461.00 ",2003
+Fantasy,Adventure,,8.1,143,4,PG-13,Walt Disney Pictures,Pirates of the Caribbean: The Curse of the Black Pearl,"$654,264,015.00 ",2003
+Fantasy,Drama,Comedy,6.7,101,5,PG-13,Universal Pictures,Bruce Almighty,"$484,592,874.00 ",2003
+History,Drama,Action,7.7,154,6,R,Warner Bros,The Last Samurai,"$456,758,981.00 ",2003
+Sci-Fi,Action,,6.4,109,7,R,Warner Bros,Terminator 3: Rise of the Machines,"$433,371,112.00 ",2003
+Sci-Fi,Action,,6.7,129,8,R,Warner Bros,The Matrix Revolutions,"$427,343,298.00 ",2003
+Sci-Fi,Adventure,Action,7.5,134,9,PG-13,20th Century Fox,X2,"$407,711,549.00 ",2003
+Crime,Comedy,Action,6.5,147,10,R,Columbia Pictures,Bad Boys II,"$273,339,556.00 ",2003
+Fantasy,Adventure,,8.7,179,1,PG-13,Warner Bros,The Lord of the Rings: The Two Towers,"$926,287,400.00 ",2002
+Fantasy,Family,Adventure,7.3,161,2,PG,Warner Bros,Harry Potter and the Chamber of Secrets,"$878,643,482.00 ",2002
+Adventure,Action,,7.3,121,3,PG-13,Columbia Pictures,Spider-Man,"$821,708,551.00 ",2002
+Fantasy,Adventure,Action,6.7,142,4,PG,20th Century Fox,Star Wars Episode II: Attack of the Clones,"$649,398,328.00 ",2002
+Fantasy,Comedy,Action,6,88,5,PG-13,Columbia Pictures,Men in Black II,"$441,818,803.00 ",2002
+Crime,Adventure,Action,6.1,133,6,PG-13,Metro-Goldwyn-Mayer,Die Another Day,"$431,971,116.00 ",2002
+Thriller,Sci-Fi,Drama,6.7,106,7,PG-13,Walt Disney Pictures,Signs,"$408,247,917.00 ",2002
+Comedy,Animation,Adventure,7.6,81,8,PG,20th Century Fox,Ice Age,"$383,257,136.00 ",2002
+Romance,Comedy,,6.6,95,9,PG,IFC Films,My Big Fat Greek Wedding,"$368,744,044.00 ",2002
+Sci-Fi,Mystery,Action,7.7,145,10,PG-13,DreamWorks,Minority Report,"$358,372,926.00 ",2002
+Fantasy,Family,Adventure,7.5,152,1,PG,Warner Bros,Harry Potter and the Sorcerer's Stone,"$974,733,550.00 ",2001
+Fantasy,Adventure,,8.8,178,2,PG-13,Warner Bros,The Lord of the Rings: The Fellowship of the Ring,"$870,761,744.00 ",2001
+Comedy,Animation,Adventure,8.1,92,3,G,Pixar,"Monsters, Inc.","$525,366,597.00 ",2001
+Comedy,Animation,Adventure,7.9,90,4,PG,DreamWorks,Shrek,"$484,409,218.00 ",2001
+Thriller,Crime,,7.8,116,5,PG-13,Warner Bros,Ocean's Eleven,"$450,717,150.00 ",2001
+Romance,Drama,Action,6,183,6,PG-13,Walt Disney Pictures,Pearl Harbor,"$449,220,945.00 ",2001
+Fantasy,Adventure,Action,6.3,130,7,PG-13,Universal Pictures,The Mummy Returns,"$433,013,274.00 ",2001
+Sci-Fi,Adventure,Action,5.9,92,8,PG-13,Universal Pictures,Jurassic Park III,"$368,780,809.00 ",2001
+Sci-Fi,Adventure,Action,5.7,119,9,PG-13,20th Century Fox,Planet of the Apes,"$362,211,740.00 ",2001
+Thriller,Drama,Crime,6.7,131,10,R,Metro-Goldwyn-Mayer,Hannibal,"$351,692,268.00 ",2001
+Thriller,Adventure,Action,6,123,1,PG-13,Paramount Pictures,Mission: Impossible II,"$546,388,105.00 ",2000
+Drama,Action,,8.5,155,2,R,DreamWorks,Gladiator,"$457,640,427.00 ",2000
+Drama,Adventure,,7.7,143,3,PG-13,20th Century Fox,Cast Away,"$429,632,142.00 ",2000
+Romance,Fantasy,Comedy,6.4,127,4,PG-13,Paramount Pictures,What Women Want,"$374,111,707.00 ",2000
+Animation,Animation,Adventure,6.4,82,5,PG,Walt Disney Pictures,Dinosaur,"$349,822,765.00 ",2000
+Fantasy,Family,Comedy,6,104,6,PG,Universal Pictures,How the Grinch Stole Christmas,"$345,141,403.00 ",2000
+Comedy,,,7,108,7,PG-13,Universal Pictures,Meet the Parents,"$330,444,045.00 ",2000
+Drama,Adventure,Action,6.4,130,8,PG-13,Warner Bros,The Perfect Storm,"$328,718,434.00 ",2000
+Sci-Fi,Adventure,Action,7.4,104,9,PG-13,20th Century Fox,X-Men,"$296,339,527.00 ",2000
+Thriller,Horror,Drama,6.6,130,10,PG-13,DreamWorks,What Lies Beneath,"$291,420,351.00 ",2000
+Fantasy,Adventure,Action,6.6,136,1,PG,20th Century Fox,Star Wars Episode I: The Phantom Menace,"$924,317,558.00 ",1999
+Thriller,Mystery,Drama,8.2,107,2,PG-13,Walt Disney Pictures,The Sixth Sense,"$672,806,292.00 ",1999
+Comedy,Animation,Adventure,7.9,92,3,G,Walt Disney Pictures,Toy Story 2,"$485,015,179.00 ",1999
+Sci-Fi,Action,,8.7,136,4,R,Warner Bros,The Matrix,"$460,379,930.00 ",1999
+Drama,Animation,Adventure,7.2,88,5,G,Walt Disney Pictures,Tarzan,"$448,191,819.00 ",1999
+Fantasy,Adventure,Action,7,125,6,PG-13,Universal Pictures,The Mummy,"$415,933,406.00 ",1999
+Romance,Drama,Comedy,7,124,7,PG-13,Universal Pictures,Notting Hill,"$363,889,678.00 ",1999
+Crime,Adventure,Action,6.4,128,8,PG-13,Metro-Goldwyn-Mayer,The World Is Not Enough,"$361,832,400.00 ",1999
+Romance,Drama,,8.4,122,9,R,DreamWorks,American Beauty,"$356,296,601.00 ",1999
+Comedy,Adventure,Action,6.6,95,10,PG-13,Warner Bros,Austin Powers: The Spy Who Shagged Me,"$312,016,858.00 ",1999
+Sci-Fi,Adventure,Action,6.6,151,1,PG-13,Walt Disney Pictures,Armageddon,"$553,709,788.00 ",1998
+War,Drama,Action,8.6,169,2,R,DreamWorks,Saving Private Ryan,"$481,840,909.00 ",1998
+Thriller,Sci-Fi,Action,5.3,139,3,PG-13,Sony Pictures,Godzilla,"$379,014,294.00 ",1998
+Romance,Comedy,,7.1,119,4,R,20th Century Fox,There's Something About Mary,"$369,884,651.00 ",1998
+Comedy,Animation,Adventure,7.2,95,5,G,Walt Disney Pictures,A Bug's Life,"$363,398,565.00 ",1998
+Sci-Fi,Drama,Action,6.1,120,6,PG-13,DreamWorks,Deep Impact,"$349,464,664.00 ",1998
+Family,Animation,Adventure,7.5,88,7,G,Walt Disney Pictures,Mulan,"$304,320,254.00 ",1998
+Fantasy,Family,Comedy,5.3,85,8,PG-13,20th Century Fox,Dr. Dolittle,"$294,456,605.00 ",1998
+Romance,Drama,Comedy,7.2,123,9,R,Universal Pictures,Shakespeare in Love,"$289,317,794.00 ",1998
+Thriller,Crime,Action,6.6,127,10,R,Warner Bros,Lethal Weapon 4,"$285,444,603.00 ",1998
+Romance,Drama,,7.7,194,1,PG-13,Paramount Pictures,Titanic,"$1,843,201,268.00 ",1997
+Sci-Fi,Adventure,Action,6.5,129,2,PG-13,Universal Pictures,The Lost World: Jurassic Park,"$618,638,999.00 ",1997
+Sci-Fi,Comedy,,7.2,98,3,PG-13,Columbia Pictures,Men in Black,"$589,390,539.00 ",1997
+Thriller,Adventure,Action,6.5,119,4,PG-13,Metro-Goldwyn-Mayer,Tomorrow Never Dies,"$333,011,068.00 ",1997
+Drama,Adventure,Action,6.4,124,5,R,Columbia Pictures,Air Force One,"$315,156,409.00 ",1997
+Romance,Drama,Comedy,7.8,139,6,PG-13,Sony Pictures,As Good as It Gets,"$314,178,011.00 ",1997
+Comedy,,,6.8,86,7,PG-13,Universal Pictures,Liar Liar,"$302,710,615.00 ",1997
+Romance,Comedy,,6.3,105,8,PG-13,Sony Pictures,My Best Friend's Wedding,"$299,288,605.00 ",1997
+Sci-Fi,Adventure,Action,7.6,126,9,PG-13,Columbia Pictures,The Fifth Element,"$263,920,180.00 ",1997
+Music,Drama,Comedy,7.2,91,10,R,20th Century Fox,The Full Monty,"$257,850,122.00 ",1997
+Sci-Fi,Adventure,Action,6.9,145,1,PG-13,20th Century Fox,Independence Day,"$817,400,891.00 ",1996
+Drama,Adventure,Action,6.2,113,2,PG-13,Warner Bros,Twister,"$494,471,524.00 ",1996
+Thriller,Adventure,Action,7.1,110,3,PG-13,Paramount Pictures,Mission: Impossible,"$457,696,359.00 ",1996
+Thriller,Adventure,Action,7.4,136,4,R,Walt Disney Pictures,The Rock,"$335,062,621.00 ",1996
+Family,Drama,Animation,6.9,91,5,G,Walt Disney Pictures,The Hunchback of Notre Dame,"$325,338,851.00 ",1996
+Family,Comedy,Adventure,5.6,103,6,G,Walt Disney Pictures,101 Dalmatians,"$320,689,294.00 ",1996
+Thriller,Crime,,6.6,121,7,R,Walt Disney Pictures,Ransom,"$309,492,681.00 ",1996
+Sci-Fi,Romance,Comedy,5.5,95,8,PG-13,Universal Pictures,The Nutty Professor,"$273,961,019.00 ",1996
+Romance,Drama,Comedy,7.3,139,9,R,Sony Pictures,Jerry Maguire,"$273,552,592.00 ",1996
+Thriller,Drama,Action,6,115,10,R,Warner Bros,Eraser,"$242,295,562.00 ",1996
+Thriller,Adventure,Action,7.6,131,1,R,20th Century Fox,Die Hard with a Vengeance,"$366,101,766.00 ",1995
+Comedy,Animation,Adventure,8.3,81,2,G,Walt Disney Pictures,Toy Story,"$361,958,736.00 ",1995
+History,Drama,Adventure,7.6,140,3,PG,Universal Pictures,Apollo 13,"$353,471,312.00 ",1995
+Thriller,Adventure,Action,7.2,130,4,PG-13,Metro-Goldwyn-Mayer,GoldenEye,"$352,194,034.00 ",1995
+Drama,Animation,Adventure,6.6,81,5,G,Walt Disney Pictures,Pocahontas,"$346,079,773.00 ",1995
+Fantasy,Adventure,Action,5.4,121,6,PG-13,Warner Bros,Batman Forever,"$336,529,144.00 ",1995
+Thriller,Drama,Thriller,8.7,127,7,R,Warner Bros,Seven,"$327,311,859.00 ",1995
+Fantasy,Family,Comedy,6,100,8,PG,Universal Pictures,Casper,"$287,928,194.00 ",1995
+Sci-Fi,Adventure,Action,6.1,135,9,PG-13,Universal Pictures,Waterworld,"$264,218,220.00 ",1995
+Fantasy,Family,Adventure,6.8,104,10,PG,Sony Pictures,Jumanji,"$262,797,249.00 ",1995
+Drama,Animation,Adventure,8.5,89,1,G,Walt Disney Pictures,The Lion King,"$768,625,889.00 ",1994
+Romance,Drama,,8.8,142,2,PG-13,Paramount Pictures,Forrest Gump,"$677,387,716.00 ",1994
+Thriller,Comedy,Action,7.2,141,3,R,20th Century Fox,True Lies,"$378,882,411.00 ",1994
+Fantasy,Crime,Comedy,6.8,101,4,PG-13,Warner Bros,The Mask,"$351,583,407.00 ",1994
+Thriller,Crime,Action,7.2,116,5,R,20th Century Fox,Speed,"$350,448,145.00 ",1994
+Fantasy,Family,Comedy,4.8,91,6,PG,Universal Pictures,The Flintstones,"$341,631,208.00 ",1994
+Comedy,,,7.3,107,7,PG-13,Warner Bros,Dumb and Dumber,"$247,275,374.00 ",1994
+Romance,Drama,Comedy,7.1,117,8,R,Universal Pictures,Four Weddings and a Funeral,"$245,700,832.00 ",1994
+Romance,Horror,,7.6,123,9,R,Warner Bros,Interview with the Vampire: The Vampire Chronicles,"$223,664,608.00 ",1994
+Drama,Crime,Action,6.9,141,10,PG-13,Paramount Pictures,Clear and Present Danger,"$215,887,717.00 ",1994
+Thriller,Sci-Fi,Adventure,8,127,1,PG-13,Universal Pictures,Jurassic Park,"$914,691,118.00 ",1993
+Family,Drama,Comedy,6.9,125,2,PG-13,20th Century Fox,Mrs. Doubtfire,"$441,286,195.00 ",1993
+Crime,Adventure,Action,7.8,130,3,PG-13,Warner Bros,The Fugitive,"$368,875,760.00 ",1993
+History,Drama,Biography,8.9,195,4,R,Universal Pictures,Schindler's List,"$321,306,305.00 ",1993
+Thriller,Mystery,Drama,6.8,154,5,R,Paramount Pictures,The Firm,"$270,248,367.00 ",1993
+Romance,Drama,,5.8,117,6,R,Paramount Pictures,Indecent Proposal,"$266,614,059.00 ",1993
+Thriller,Adventure,Action,6.3,112,7,R,Sony Pictures,Cliffhanger,"$255,000,211.00 ",1993
+Romance,Drama,Comedy,6.8,105,8,PG,Sony Pictures,Sleepless in Seattle,"$227,799,884.00 ",1993
+Drama,,,7.7,125,9,PG-13,Sony Pictures,Philadelphia,"$206,678,440.00 ",1993
+Drama,Crime,Action,6.5,141,10,PG-13,Warner Bros,The Pelican Brief,"$195,268,056.00 ",1993
+Comedy,Animation,Adventure,8,90,1,G,Walt Disney Pictures,Aladdin,"$504,050,219.00 ",1992
+Music,Drama,Action,6.1,129,2,R,Warner Bros,The Bodyguard,"$411,006,740.00 ",1992
+Family,Comedy,Adventure,6.5,120,3,PG,20th Century Fox,Home Alone 2: Lost in New York,"$358,994,850.00 ",1992
+Thriller,Mystery,Drama,6.9,127,4,R,Sony Pictures,Basic Instinct,"$352,927,224.00 ",1992
+Thriller,Crime,Action,6.7,118,5,R,Warner Bros,Lethal Weapon 3,"$321,731,527.00 ",1992
+Action,,,7,126,6,PG-13,Warner Bros,Batman Returns,"$266,822,354.00 ",1992
+Thriller,Drama,,7.6,138,7,R,Columbia Pictures,A Few Good Men,"$243,240,178.00 ",1992
+Music,Comedy,,6.2,100,8,PG,Walt Disney Pictures,Sister Act,"$231,605,150.00 ",1992
+Romance,Horror,,7.5,128,9,R,Columbia Pictures,Bram Stoker's Dracula,"$215,862,692.00 ",1992
+Music,Comedy,,7,94,10,PG-13,Paramount Pictures,Wayne's World,"$183,097,323.00 ",1992
+Sci-Fi,Action,,8.5,137,1,R,Sony Pictures,Terminator 2: Judgment Day,"$519,843,345.00 ",1991
+Drama,Adventure,Action,6.9,143,2,PG-13,Warner Bros,Robin Hood: Prince of Thieves,"$390,493,908.00 ",1991
+Fantasy,Family,Animation,8,84,3,G,Walt Disney Pictures,Beauty and the Beast,"$351,863,363.00 ",1991
+Family,Comedy,Adventure,6.7,142,4,PG,Sony Pictures,Hook,"$300,854,823.00 ",1991
+Thriller,,,8.6,118,5,R,Metro-Goldwyn-Mayer,The Silence of the Lambs,"$272,742,922.00 ",1991
+Thriller,History,Drama,8,189,6,R,Warner Bros,JFK,"$205,405,498.00 ",1991
+Fantasy,Comedy,,6.8,99,7,PG-13,Paramount Pictures,The Addams Family,"$191,502,426.00 ",1991
+Thriller,Crime,,7.3,128,8,R,Universal Pictures,Cape Fear,"$182,291,969.00 ",1991
+Comedy,,,6.7,84,9,PG-13,20th Century Fox,Hot Shots!,"$181,096,164.00 ",1991
+Comedy,Western,,6.7,113,10,PG-13,Columbia Pictures,City Slickers,"$179,033,791.00 ",1991
+Romance,Fantasy,Drama,7,127,1,PG-13,Paramount Pictures,Ghost,"$505,702,588.00 ",1990
+Family,Comedy,,7.4,103,2,PG,20th Century Fox,Home Alone,"$476,684,675.00 ",1990
+Romance,Comedy,,6.9,119,3,R,Walt Disney Pictures,Pretty Woman,"$463,406,268.00 ",1990
+Drama,Western,Adventure,8,181,4,PG-13,Metro-Goldwyn-Mayer,Dances with Wolves,"$424,208,848.00 ",1990
+Action,Sci-Fi,Mystery,7.5,113,5,R,Sony Pictures,Total Recall,"$261,336,002.00 ",1990
+Romance,Comedy,Adventure,7.4,118,6,PG,Universal Pictures,Back to the Future Part III,"$244,527,583.00 ",1990
+Thriller,Action,,7.1,124,7,R,20th Century Fox,Die Hard 2,"$240,031,094.00 ",1990
+Thriller,Drama,Crime,6.9,127,8,R,Warner Bros,Presumed Innocent,"$221,303,188.00 ",1990
+Comedy,Adventure,Action,6.7,93,9,PG,Warner Bros,Teenage Mutant Ninja Turtles,"$201,965,915.00 ",1990
+Crime,Comedy,Action,6,111,10,PG-13,Universal Pictures,Kindergarten Cop,"$201,957,688.00 ",1990
+Adventure,Action,,8.3,127,1,PG-13,Paramount Pictures,Indiana Jones and the Last Crusade,"$474,171,806.00 ",1989
+Adventure,Action,,7.6,126,2,PG-13,Warner Bros,Batman,"$411,348,924.00 ",1989
+Sci-Fi,Comedy,Adventure,7.8,108,3,PG,Universal Pictures,Back to the Future Part II,"$331,950,002.00 ",1989
+Romance,Comedy,,5.8,93,4,PG-13,Sony Pictures,Look Who's Talking,"$296,999,813.00 ",1989
+Drama,,,8,128,5,PG,Walt Disney Pictures,Dead Poets Society,"$235,860,116.00 ",1989
+Thriller,Crime,Action,7.2,114,6,R,Warner Bros,Lethal Weapon 2,"$227,853,986.00 ",1989
+Family,Comedy,Adventure,6.2,93,7,PG,Walt Disney Pictures,"Honey, I Shrunk the Kids","$222,724,172.00 ",1989
+Horror,Fantasy,Comedy,6.5,108,8,PG,Columbia Pictures,Ghostbusters II,"$215,394,738.00 ",1989
+Fantasy,Family,Animation,7.6,83,9,G,Walt Disney Pictures,The Little Mermaid,"$184,155,863.00 ",1989
+War,Drama,Biography,7.2,145,10,R,Universal Pictures,Born on the Fourth of July,"$161,001,698.00 ",1989
+Drama,,,8,133,1,R,Metro-Goldwyn-Mayer,Rain Man,"$172,825,435.00 ",1988
+Crime,Comedy,Animation,7.7,104,2,PG,Walt Disney Pictures,Who Framed Roger Rabbit,"$156,452,370.00 ",1988
+Romance,Comedy,,6.9,116,3,R,Paramount Pictures,Coming to America,"$128,152,301.00 ",1988
+Fantasy,Drama,Comedy,7.3,104,4,PG,20th Century Fox,Big,"$114,968,774.00 ",1988
+Comedy,,,5.9,107,5,PG,Universal Pictures,Twins,"$111,938,388.00 ",1988
+Comedy,Adventure,Action,5.5,108,6,PG,Paramount Pictures,"""Crocodile"" Dundee II","$109,306,210.00 ",1988
+Thriller,Action,,8.3,131,7,R,20th Century Fox,Die Hard,"$83,008,852.00 ",1988
+Crime,Comedy,,7.6,85,8,PG-13,Paramount Pictures,The Naked Gun: From the Files of Police Squad!,"$78,756,177.00 ",1988
+Romance,Drama,Comedy,5.8,104,9,R,Walt Disney Pictures,Cocktail,"$78,222,753.00 ",1988
+Comedy,,,7.4,92,10,PG,Warner Bros,Beetlejuice,"$73,707,461.00 ",1988
+Family,Drama,Comedy,5.8,102,1,PG,Walt Disney Pictures,Three Men and a Baby,"$167,780,960.00 ",1987
+Thriller,Drama,,6.9,119,2,R,Paramount Pictures,Fatal Attraction,"$156,645,693.00 ",1987
+Crime,Comedy,Action,6.4,100,3,R,Paramount Pictures,Beverly Hills Cop II,"$153,665,036.00 ",1987
+War,Drama,Comedy,7.3,121,4,R,Walt Disney Pictures,"Good Morning, Vietnam","$123,922,370.00 ",1987
+Romance,Drama,Comedy,7.1,102,5,PG,Metro-Goldwyn-Mayer,Moonstruck,"$80,640,528.00 ",1987
+Thriller,Drama,Crime,8,119,6,R,Paramount Pictures,The Untouchables,"$76,270,454.00 ",1987
+Comedy,,,6.4,111,7,PG-13,Universal Pictures,The Secret of My Success,"$66,995,000.00 ",1987
+Thriller,Comedy,,6.6,117,8,R,Walt Disney Pictures,Stakeout,"$65,673,230.00 ",1987
+Thriller,Crime,Action,7.6,110,9,R,Warner Bros,Lethal Weapon,"$65,207,127.00 ",1987
+Horror,Fantasy,Comedy,6.5,118,10,R,Warner Bros,The Witches of Eastwick,"$63,766,510.00 ",1987
+Romance,Drama,Action,6.8,110,1,PG,Paramount Pictures,Top Gun,"$176,781,728.00 ",1986
+Adventure,Comedy,Crime,6.5,97,2,PG-13,Paramount Pictures,"""Crocodile"" Dundee","$174,803,506.00 ",1986
+War,Drama,,8.1,120,3,R,Metro-Goldwyn-Mayer,Platoon,"$138,530,565.00 ",1986
+Romance,Family,Action,5.8,113,4,PG,Columbia Pictures,"The Karate Kid, Part II","$115,103,979.00 ",1986
+Comedy,Adventure,Action,7.3,119,5,PG,Paramount Pictures,Star Trek IV: The Voyage Home,"$109,713,132.00 ",1986
+Sport,Romance,Comedy,6.5,96,6,PG-13,Metro-Goldwyn-Mayer,Back to School,"$91,258,000.00 ",1986
+Sci-Fi,Adventure,Action,8.4,137,7,R,20th Century Fox,Aliens,"$86,160,248.00 ",1986
+Drama,Comedy,Animation,6.9,80,8,G,Universal Pictures,An American Tail,"$84,542,002.00 ",1986
+Comedy,Adventure,Action,5.8,94,9,PG-13,Paramount Pictures,The Golden Child,"$79,817,937.00 ",1986
+Crime,Comedy,,6.8,93,10,R,Walt Disney Pictures,Ruthless People,"$71,624,879.00 ",1986
+Romance,Comedy,Adventure,8.5,116,1,PG,Universal Pictures,Back to the Future,"$210,609,762.00 ",1985
+Thriller,Adventure,Action,6.4,96,2,R,Sony Pictures,Rambo: First Blood Part II,"$150,415,432.00 ",1985
+Sport,Drama,,6.7,91,3,PG,Metro-Goldwyn-Mayer,Rocky IV,"$127,873,716.00 ",1985
+Drama,,,7.8,154,4,PG-13,Warner Bros,The Color Purple,"$94,175,854.00 ",1985
+Romance,Drama,Biography,7.2,161,5,PG,Universal Pictures,Out Of Africa,"$87,071,205.00 ",1985
+Sci-Fi,,,6.6,117,6,PG-13,20th Century Fox,Cocoon,"$85,313,124.00 ",1985
+Comedy,Adventure,Action,6,106,7,PG,20th Century Fox,The Jewel of the Nile,"$75,973,200.00 ",1985
+Romance,Drama,Crime,7.5,112,8,R,Paramount Pictures,Witness,"$68,706,993.00 ",1985
+Family,Comedy,Adventure,7.8,114,9,PG,Warner Bros,The Goonies,"$61,389,680.00 ",1985
+Comedy,Adventure,,6.3,102,10,PG,Warner Bros,Spies Like Us,"$60,088,980.00 ",1985
+Fantasy,Comedy,,7.8,105,1,PG,Columbia Pictures,Ghostbusters,"$238,632,124.00 ",1984
+Comedy,Action,,7.3,105,2,R,Paramount Pictures,Beverly Hills Cop,"$234,760,478.00 ",1984
+Action,Adventure,Drama,7.6,118,3,PG,Paramount Pictures,Indiana Jones and the Temple of Doom,"$179,870,271.00 ",1984
+Horror,Comedy,,7.2,106,4,PG,Warner Bros,Gremlins,"$153,083,102.00 ",1984
+Family,Drama,Action,7.2,126,5,PG,Columbia Pictures,The Karate Kid,"$90,815,558.00 ",1984
+Comedy,,,6.6,96,6,R,Warner Bros,Police Academy,"$81,198,894.00 ",1984
+Romance,Music,Drama,6.4,107,7,R,Paramount Pictures,Footloose,"$80,035,402.00 ",1984
+Sci-Fi,Action,,8.1,107,8,R,Metro-Goldwyn-Mayer,The Terminator,"$78,400,000.00 ",1984
+Comedy,Adventure,Action,6.9,106,9,PG,20th Century Fox,Romancing the Stone,"$78,371,200.00 ",1984
+Sci-Fi,Adventure,Action,6.6,105,10,PG,Paramount Pictures,Star Trek III: The Search for Spock,"$76,572,238.00 ",1984
+Fantasy,Adventure,Action,8.4,134,1,PG,Lionsgate Films,Star Wars Episode VI: Return of the Jedi,"$252,583,617.00 ",1983
+Drama,Comedy,,7.4,132,2,R,Paramount Pictures,Terms of Endearment,"$108,423,489.00 ",1983
+Romance,Music,Drama,6.1,95,3,R,Paramount Pictures,Flashdance,"$92,921,203.00 ",1983
+Comedy,,,7.5,116,4,R,Paramount Pictures,Trading Places,"$90,404,800.00 ",1983
+Thriller,Sci-Fi,,7.1,114,5,PG,Metro-Goldwyn-Mayer,WarGames,"$79,567,667.00 ",1983
+Thriller,Adventure,Action,6.6,131,6,PG,Metro-Goldwyn-Mayer,Octopussy,"$67,800,000.00 ",1983
+Thriller,Action,,6.6,117,7,R,Warner Bros,Sudden Impact,"$67,642,693.00 ",1983
+Romance,Music,Drama,4.4,93,8,PG,Paramount Pictures,Staying Alive,"$64,892,670.00 ",1983
+Drama,Comedy,Western,6.4,91,9,PG,20th Century Fox,Mr. Mom,"$64,783,827.00 ",1983
+Drama,Crime,Comedy,6.8,99,10,R,Warner Bros,Risky Business,"$63,541,777.00 ",1983
+Sci-Fi,Family,Western,7.9,115,1,PG,Universal Pictures,E.T. the Extra-Terrestrial,"$359,197,037.00 ",1982
+Romance,Comedy,,7.4,116,2,PG,Columbia Pictures,Tootsie,"$177,200,000.00 ",1982
+Romance,Drama,,7,124,3,R,Paramount Pictures,An Officer and a Gentleman,"$129,795,554.00 ",1982
+Sport,Drama,,6.7,99,4,PG,Metro-Goldwyn-Mayer,Rocky III,"$124,146,897.00 ",1982
+Comedy,,,6.1,94,5,R,20th Century Fox,Porky's,"$105,492,483.00 ",1982
+Drama,Adventure,Action,7.7,113,6,PG,Paramount Pictures,Star Trek II: The Wrath of Khan,"$78,912,963.00 ",1982
+Crime,Comedy,Action,6.9,96,7,R,Paramount Pictures,48 Hrs.,"$78,868,508.00 ",1982
+Horror,,,7.4,114,8,PG,Metro-Goldwyn-Mayer,Poltergeist,"$76,606,280.00 ",1982
+Music,Comedy,,5.7,114,9,R,Universal Pictures,The Best Little Whorehouse in Texas,"$69,701,637.00 ",1982
+Family,Drama,Comedy,6.5,127,10,PG,Columbia Pictures,Annie,"$57,059,003.00 ",1982
+Adventure,Action,,8.6,115,1,PG,Paramount Pictures,Raiders of the Lost Ark,"$212,222,025.00 ",1981
+Drama,,,7.7,109,2,PG,Universal Pictures,On Golden Pond,"$119,285,432.00 ",1981
+Sci-Fi,Romance,Action,6.8,127,3,PG,Warner Bros,Superman II,"$108,185,706.00 ",1981
+Romance,Comedy,,6.9,97,4,PG,Warner Bros,Arthur,"$95,461,682.00 ",1981
+War,Comedy,,6.9,106,5,R,Columbia Pictures,Stripes,"$85,297,000.00 ",1981
+Comedy,Action,,6.1,95,6,PG,20th Century Fox,The Cannonball Run,"$72,179,579.00 ",1981
+Sport,History,Drama,7.2,119,7,PG,Warner Bros,Chariots of Fire,"$58,972,904.00 ",1981
+Thriller,Adventure,Action,6.8,127,8,PG,Metro-Goldwyn-Mayer,For Your Eyes Only,"$54,812,802.00 ",1981
+Drama,Comedy,,7.2,107,9,PG,Universal Pictures,The Four Seasons,"$50,427,646.00 ",1981
+Fantasy,Comedy,Adventure,7,110,10,PG,Embassy Pictures,Time Bandits,"$42,365,581.00 ",1981
+Adventure,Action,Fantasy,8.8,124,1,PG,20th Century Fox,Star Wars Episode V: The Empire Strikes Back,"$209,398,025.00 ",1980
+Comedy,,,6.6,110,2,PG,20th Century Fox,9 to 5,"$103,290,500.00 ",1980
+Crime,Comedy,,6.8,111,3,R,Columbia Pictures,Stir Crazy,"$101,300,000.00 ",1980
+Comedy,,,7.8,88,4,PG,Paramount Pictures,Airplane!,"$83,453,539.00 ",1980
+Comedy,Action,,6,116,5,PG,Warner Bros,Any Which Way You Can,"$70,687,344.00 ",1980
+War,Comedy,,6,109,6,R,Warner Bros,Private Benjamin,"$69,847,348.00 ",1980
+Music,Drama,Biography,7.5,124,7,PG,Universal Pictures,Coal Miner's Daughter,"$67,182,787.00 ",1980
+Crime,Comedy,Action,5.1,100,8,PG,Universal Pictures,Smokey and the Bandit II,"$66,132,626.00 ",1980
+Romance,Drama,Adventure,5.7,104,9,R,Columbia Pictures,The Blue Lagoon,"$58,853,106.00 ",1980
+Crime,Comedy,Action,8,133,10,R,Universal Pictures,The Blues Brothers,"$57,229,890.00 ",1980
+Drama,,,7.8,105,1,PG-13,Columbia Pictures,Kramer vs. Kramer,"$106,260,000.00 ",1979
+Horror,Drama,,6.2,117,2,R,Metro-Goldwyn-Mayer,The Amityville Horror,"$86,432,520.00 ",1979
+Sport,Drama,Action,7.1,119,3,PG,Metro-Goldwyn-Mayer,Rocky II,"$85,182,160.00 ",1979
+War,Drama,,8.5,153,4,R,Metro-Goldwyn-Mayer,Apocalypse Now,"$83,471,511.00 ",1979
+Sci-Fi,Mystery,Adventure,6.4,132,5,PG,Paramount Pictures,Star Trek: The Motion Picture,"$82,258,456.00 ",1979
+Sci-Fi,Horror,,8.5,117,6,R,20th Century Fox,Alien,"$80,931,801.00 ",1979
+Romance,Comedy,,6,122,7,R,Warner Bros,10,"$74,865,517.00 ",1979
+Comedy,,,7.2,94,8,R,Universal Pictures,The Jerk,"$73,691,419.00 ",1979
+Crime,Adventure,Action,6.2,126,9,PG,Metro-Goldwyn-Mayer,Moonraker,"$70,308,099.00 ",1979
+Family,Comedy,Adventure,7.7,95,10,G,Metro-Goldwyn-Mayer,The Muppet Movie,"$65,200,000.00 ",1979
+Romance,Musical,,7.2,110,1,PG-13,Paramount Pictures,Grease,"$159,978,870.00 ",1978
+Sci-Fi,Drama,Action,7.3,143,2,PG,Warner Bros,Superman,"$134,218,018.00 ",1978
+Comedy,,,7.6,109,3,R,Universal Pictures,National Lampoon's Animal House,"$120,091,123.00 ",1978
+Comedy,Action,,6.2,114,4,PG,Warner Bros,Every Which Way but Loose,"$85,196,485.00 ",1978
+Sport,Romance,Comedy,6.9,101,5,PG,Paramount Pictures,Heaven Can Wait,"$81,640,278.00 ",1978
+Comedy,Action,,6.2,99,6,PG,Warner Bros,Hooper,"$78,000,000.00 ",1978
+Thriller,Horror,,5.7,116,7,PG,Universal Pictures,Jaws 2,"$77,737,272.00 ",1978
+Horror,Drama,,8,127,8,R,Metro-Goldwyn-Mayer,Dawn of the Dead,"$59,020,957.00 ",1978
+Thriller,Comedy,Crime,6.7,99,9,PG,Metro-Goldwyn-Mayer,Revenge of the Pink Panther,"$49,579,269.00 ",1978
+War,Drama,,8.2,182,10,R,Universal Pictures,The Deer Hunter,"$48,979,328.00 ",1978
+Fantasy,Adventure,Action,8.7,121,1,PG,Lionsgate Films,Star Wars,"$307,263,857.00 ",1977
+Romance,Comedy,Action,6.8,96,2,PG,Universal Pictures,Smokey and the Bandit,"$126,737,428.00 ",1977
+Sci-Fi,Drama,,7.7,137,3,PG,Columbia Pictures,Close Encounters of the Third Kind,"$116,395,460.00 ",1977
+Romance,Drama,Comedy,7.4,111,4,PG,Metro-Goldwyn-Mayer,The Goodbye Girl,"$102,000,000.00 ",1977
+Romance,Music,Drama,6.8,118,5,R,Paramount Pictures,Saturday Night Fever,"$94,213,184.00 ",1977
+Fantasy,Comedy,,6.5,98,6,PG,Warner Bros,"Oh, God!","$51,061,196.00 ",1977
+War,History,Drama,7.4,175,7,PG,Metro-Goldwyn-Mayer,A Bridge Too Far,"$50,750,000.00 ",1977
+Thriller,Mystery,Adventure,6.1,123,8,PG,Columbia Pictures,The Deep,"$47,346,365.00 ",1977
+Thriller,Adventure,Action,7.1,125,9,PG,Metro-Goldwyn-Mayer,The Spy Who Loved Me,"$46,838,673.00 ",1977
+Romance,Drama,Comedy,8.1,93,10,PG,Metro-Goldwyn-Mayer,Annie Hall,"$38,251,425.00 ",1977
+Sport,Drama,,8.1,119,1,PG,Metro-Goldwyn-Mayer,Rocky,"$117,235,147.00 ",1976
+History,Documentary,,7,27,2,G,National Air and Space Museum,To Fly!,"$86,600,000.00 ",1976
+Romance,Music,Drama,6.5,139,3,R,Warner Bros,A Star Is Born,"$80,000,000.00 ",1976
+Thriller,Drama,,8,138,4,R,Warner Bros,All the President's Men,"$70,600,000.00 ",1976
+Thriller,Horror,Drama,7.6,111,5,R,20th Century Fox,The Omen,"$60,922,980.00 ",1976
+Family,Documentary,,4.6,99,6,G,Sunn Classic Pictures,In Search of Noah's Ark,"$55,700,000.00 ",1976
+Horror,Fantasy,Adventure,5.8,134,7,PG,Paramount Pictures,King Kong,"$52,614,445.00 ",1976
+Crime,Comedy,Action,6.9,114,8,PG,20th Century Fox,Silver Streak,"$51,079,064.00 ",1976
+Thriller,Crime,Action,6.8,96,9,R,Warner Bros,The Enforcer,"$46,236,000.00 ",1976
+History,Drama,Action,6.7,132,10,PG,Universal Pictures,Midway,"$43,220,000.00 ",1976
+Drama,Crime,,8.1,125,4,R,Warner Bros,Dog Day Afternoon,"$50,000,000.00 ",1975
+Romance,Drama,,6.3,109,5,R,Columbia Pictures,Shampoo,"$49,407,734.00 ",1975
+Thriller,Crime,Comedy,7.1,113,6,G,Metro-Goldwyn-Mayer,The Return of the Pink Panther,"$41,833,347.00 ",1975
+Music,Drama,Comedy,6.4,136,7,PG,Columbia Pictures,Funny Lady,"$39,000,000.00 ",1975
+Family,Western,Comedy,6.2,100,8,G,Walt Disney Pictures,The Apple Dumpling Gang,"$36,853,000.00 ",1975
+Drama,,,6,88,9,PG,Columbia Pictures,"Aloha, Bobby and Rose","$35,000,000.00 ",1975
+Drama,Western,War,6.4,103,10,PG,Universal Pictures,The Other Side of the Mountain,"$34,673,100.00 ",1975
