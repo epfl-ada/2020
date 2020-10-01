@@ -11,4 +11,4 @@ Tutorial and execises to practice you skills. Solutions will be released next we
 ---
 ### 2. Data from the web
 
-TBA
+Tutorial on scraping data from the web (Requests) and HTML parsing (Beautiful Soup 4).
