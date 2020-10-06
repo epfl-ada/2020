@@ -4,7 +4,7 @@ In this tutorial session we explore the basic features of python libraries for s
 
 ---
 
-### 1. Read the stats carefully exercise
+### 1. Describing data exercise
 
 Tutorial and exercises to practice you skills. Solutions will be released next week.
 
