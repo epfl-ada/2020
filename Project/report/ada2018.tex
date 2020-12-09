@@ -1,0 +1,290 @@
+%% Based on the style files for ACL-2013, which were, in turn,
+%% Based on the style files for ACL-2012, which were, in turn,
+%% based on the style files for ACL-2011, which were, in turn, 
+%% based on the style files for ACL-2010, which were, in turn, 
+%% based on the style files for ACL-IJCNLP-2009, which were, in turn,
+%% based on the style files for EACL-2009 and IJCNLP-2008...
+
+%% Based on the style files for EACL 2006 by 
+%%e.agirre@ehu.es or Sergi.Balari@uab.es
+%% and that of ACL 08 by Joakim Nivre and Noah Smith
+
+\documentclass[11pt]{article}
+\usepackage{acl2014}
+\usepackage{times}
+\usepackage{url}
+\usepackage{latexsym}
+
+%\setlength\titlebox{5cm}
+
+% You can expand the titlebox if you need extra space
+% to show all the authors. Please do not make the titlebox
+% smaller than 5cm (the original size); we will check this
+% in the camera-ready version and ask you to change it back.
+
+
+\title{Name of your project}
+
+\author{First Author \\
+  {\tt email@domain} \\\And
+  Second Author \\
+  {\tt email@domain} \\\And
+Third Author \\
+{\tt email@domain} \\}
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+  This document contains the instructions for preparing a report for ADA 2020. The document itself conforms to its own specifications, and is therefore an example of
+  what your manuscript should look like. This document is based on the ACL 2014 paper format.
+\end{abstract}
+
+\section{Credits}
+
+This document has been adapted from the instructions for earlier ACL
+proceedings, including those for ACL-2012 by Maggie Li and Michael
+White, those from ACL-2010 by Jing-Shing Chang and Philipp Koehn,
+those for ACL-2008 by Johanna D. Moore, Simone Teufel, James Allan,
+and Sadaoki Furui, those for ACL-2005 by Hwee Tou Ng and Kemal
+Oflazer, those for ACL-2002 by Eugene Charniak and Dekang Lin, and
+earlier ACL and EACL formats. Those versions were written by several
+people, including John Chen, Henry S. Thompson and Donald
+Walker. Additional elements were taken from the formatting
+instructions of the {\em International Joint Conference on Artificial
+  Intelligence}.
+
+\section{Introduction}
+
+The following instructions are directed to the ADA students who decided to prepare a report. Authors are
+required to provide a Portable Document Format (PDF) version of their
+reports. It must be maximum 3-page long, excluding references.
+
+\section{General Instructions}
+
+Manuscripts must be in two-column format.  Exceptions to the
+two-column format include the title, authors' names and complete
+addresses, which must be centered at the top of the first page, and
+any full-width figures or tables (see the guidelines in
+Subsection~\ref{ssec:first}). {\bf Type single-spaced.}  Start all
+pages directly under the top margin. See the guidelines later
+regarding formatting the first page.
+
+\subsection{Format of Electronic Manuscript}
+\label{sect:pdf}
+
+For the production of the electronic manuscript you must use Adobe's
+Portable Document Format (PDF). PDF files are usually produced from
+\LaTeX\ using the \textit{pdflatex} command. If your version of
+\LaTeX\ produces Postscript files, you can convert these into PDF
+using \textit{ps2pdf} or \textit{dvipdf}. On Windows, you can also use
+Adobe Distiller to generate PDF.
+
+Please make sure that your PDF file includes all the necessary fonts
+(especially tree diagrams, symbols, and fonts with Asian
+characters). When you print or create the PDF file, there is usually
+an option in your printer setup to include none, all or just
+non-standard fonts.  Please make sure that you select the option of
+including ALL the fonts. \textbf{Before sending it, test your PDF by
+  printing it from a computer different from the one where it was
+  created.} Moreover, some word processors may generate very large PDF
+files, where each page is rendered as an image. Such images may
+reproduce poorly. In this case, try alternative ways to obtain the
+PDF. One way on some systems is to install a driver for a postscript
+printer, send your document to the printer specifying ``Output to a
+file'', then convert the file to PDF.
+
+It is of utmost importance to specify the \textbf{A4 format} (21 cm
+x 29.7 cm) when formatting the report. When working with
+{\tt dvips}, for instance, one should specify {\tt -t a4}.
+
+Print-outs of the PDF file on A4 report should be identical to the
+hardcopy version.
+
+
+\subsection{Layout}
+\label{ssec:layout}
+
+Format manuscripts two columns to a page, in the manner these
+instructions are formatted. The exact dimensions for a page on A4
+report are:
+
+\begin{itemize}
+\item Left and right margins: 2.5 cm
+\item Top margin: 2.5 cm
+\item Bottom margin: 2.5 cm
+\item Column width: 7.7 cm
+\item Column height: 24.7 cm
+\item Gap between columns: 0.6 cm
+\end{itemize}
+
+\noindent Papers should not be submitted on any other report size, no exceptions.
+
+
+\subsection{Fonts}
+
+For reasons of uniformity, Adobe's {\bf Times Roman} font should be
+used. In \LaTeX2e{} this is accomplished by putting
+
+\begin{quote}
+\begin{verbatim}
+\usepackage{times}
+\usepackage{latexsym}
+\end{verbatim}
+\end{quote}
+in the preamble. If Times Roman is unavailable, use {\bf Computer
+  Modern Roman} (\LaTeX2e{}'s default).  Note that the latter is about
+  10\% less dense than Adobe's Times Roman font.
+
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|rl|}
+\hline \bf Type of Text & \bf Font Size & \bf Style \\ \hline
+report title & 15 pt & bold \\
+author names & 12 pt & bold \\
+the word ``Abstract'' & 12 pt & bold \\
+section titles & 12 pt & bold \\
+document text & 11 pt  &\\
+captions & 11 pt & \\
+abstract text & 10 pt & \\
+bibliography & 10 pt & \\
+footnotes & 9 pt & \\
+\hline
+\end{tabular}
+\end{center}
+\caption{\label{font-table} Font guide.}
+\end{table}
+
+\subsection{The First Page}
+\label{ssec:first}
+
+Center the title and author's name(s) across both
+columns. Do not use footnotes for affiliations. Use the
+two-column format only when you begin the abstract.
+
+{\bf Title}: Place the title centered at the top of the first page, in
+a 15-point bold font. (For a complete guide to font sizes and styles,
+see Table~\ref{font-table}) Long titles should be typed on two lines
+without a blank line intervening. Approximately, put the title at 2.5
+cm from the top of the page, followed by a blank line, then the
+author's names(s) on the following line. Do not
+use only initials for given names (middle initials are allowed). Do
+not format surnames in all capitals (e.g., use ``Schlangen'' not
+``SCHLANGEN'').  Do not format title and section headings in all
+capitals as well except for proper names (such as ``BLEU'') that are
+conventionally in all capitals. Start the body of the first page 7.5 cm from the top of the
+page.
+
+{\bf Abstract}: Type the abstract at the beginning of the first
+column. The width of the abstract text should be smaller than the
+width of the columns for the text in the body of the report by about
+0.6 cm on each side. Center the word {\bf Abstract} in a 12 point bold
+font above the body of the abstract. The abstract should be a concise
+summary of the general thesis and conclusions of the report. It should
+be no longer than 150 words. The abstract text should be in 10 point font.
+
+{\bf Text}: Begin typing the main body of the text immediately after
+the abstract, observing the two-column format as shown in 
+the present document. Do not include page numbers.
+
+{\bf Indent} when starting a new paragraph. Use 11 points for text and 
+subsection headings, 12 points for section headings and 15 points for
+the title. 
+
+\subsection{Sections}
+
+{\bf Headings}: Type and label section and subsection headings in the
+style shown on the present document.  Use numbered sections (Arabic
+numerals) in order to facilitate cross references. Number subsections
+with the section number and the subsection number separated by a dot,
+in Arabic numerals. Do not number subsubsections.
+
+{\bf Citations}: Citations within the text appear in parentheses
+as~\cite{Gusfield:97} or, if the author's name appears in the text
+itself, as Gusfield~\shortcite{Gusfield:97}.  Append lowercase letters
+to the year in cases of ambiguity.  Treat double authors as
+in~\cite{Aho:72}, but write as in~\cite{Chandra:81} when more than two
+authors are involved. Collapse multiple citations as
+in~\cite{Gusfield:97,Aho:72}. Also refrain from using full citations
+as sentence constituents. We suggest that instead of
+\begin{quote}
+  ``\cite{Gusfield:97} showed that ...''
+\end{quote}
+you use
+\begin{quote}
+``Gusfield \shortcite{Gusfield:97}   showed that ...''
+\end{quote}
+
+If you are using the provided \LaTeX{} and Bib\TeX{} style files, you
+can use the command \verb|\newcite| to get ``author (year)'' citations.
+
+\textbf{Please do not use anonymous citations} and do not include
+acknowledgements when submitting your reports..
+
+\textbf{References}: Gather the full set of references together under
+the heading {\bf References}. Arrange the references alphabetically
+by first author, rather than by order of occurrence in the text.
+Provide as complete a citation as possible, using a consistent format,
+such as the one for {\em Computational Linguistics\/} or the one in the 
+{\em Publication Manual of the American 
+Psychological Association\/}~\cite{APA:83}.  Use of full names for
+authors rather than initials is preferred.  A list of abbreviations
+for common computer science journals can be found in the ACM 
+{\em Computing Reviews\/}~\cite{ACM:83}.
+
+\subsection{Footnotes}
+
+{\bf Footnotes}: Put footnotes at the bottom of the page and use 9
+points text. They may be numbered or referred to by asterisks or other
+symbols.\footnote{This is how a footnote should appear.} Footnotes
+should be separated from the text by a line.\footnote{Note the line
+separating the footnotes from the text.}
+
+\subsection{Graphics}
+
+{\bf Illustrations}: Place figures, tables, and photographs in the
+report near where they are first discussed, rather than at the end, if
+possible.  Wide illustrations may run across both columns.
+
+{\bf Captions}: Provide a caption for every illustration; number each one
+sequentially in the form:  ``Figure 1. Caption of the Figure.'' ``Table 1.
+Caption of the Table.''  Type the captions of the figures and 
+tables below the body, using 11 point text.
+
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Aho and Ullman}1972]{Aho:72}
+Alfred~V. Aho and Jeffrey~D. Ullman.
+\newblock 1972.
+\newblock {\em The Theory of Parsing, Translation and Compiling}, volume~1.
+\newblock Prentice-{Hall}, Englewood Cliffs, NJ.
+
+\bibitem[\protect\citename{{American Psychological Association}}1983]{APA:83}
+{American Psychological Association}.
+\newblock 1983.
+\newblock {\em Publications Manual}.
+\newblock American Psychological Association, Washington, DC.
+
+\bibitem[\protect\citename{{Association for Computing Machinery}}1983]{ACM:83}
+{Association for Computing Machinery}.
+\newblock 1983.
+\newblock {\em Computing Reviews}, 24(11):503--512.
+
+\bibitem[\protect\citename{Chandra \bgroup et al.\egroup }1981]{Chandra:81}
+Ashok~K. Chandra, Dexter~C. Kozen, and Larry~J. Stockmeyer.
+\newblock 1981.
+\newblock Alternation.
+\newblock {\em Journal of the Association for Computing Machinery},
+  28(1):114--133.
+
+\bibitem[\protect\citename{Gusfield}1997]{Gusfield:97}
+Dan Gusfield.
+\newblock 1997.
+\newblock {\em Algorithms on Strings, Trees and Sequences}.
+\newblock Cambridge University Press, Cambridge, UK.
+
+\end{thebibliography}
+
+\end{document}
